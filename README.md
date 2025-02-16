@@ -20,3 +20,9 @@ To explore Excel’s reporting capabilities for effective data analysis and deci
  - Generate detailed Profit and Loss reports from FY 2019 to 2021, analyzing financial trends and business performance over different time periods.
      ###### 👉  [Financial Performance Overview (2019-2021)](https://github.com/nishant-s-anlst/Excel-Reports/blob/main/AtliQ%20P%26L%20Statement%20By%20Fiscal%20Months.pdf)
    
+## Key Learnings
+This project was an excellent learning experience, helping me acquire new skills, overcome challenges, and improve my analytical mindset.
+
+### Skills
+- **Data Processing Techniques:** Utilized **ETL** (Extract, Transform, Load) methodology for efficient data processing and preparation for analysis.
+- 
