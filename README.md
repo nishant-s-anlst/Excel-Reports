@@ -25,6 +25,6 @@ This project was an excellent learning experience, helping me acquire new skills
 
 ### Skills
 - **Data Processing Techniques:** Utilized *ETL (Extract, Transform, Load)* methodology for efficient data processing and preparation for analysis.
-- **Power Pivot:** 
+- **Power Query:** Transformed *messy data* in Power Query by fixing errors, removing duplicates, and defining fiscal months, quarters, and years for meaningful insights.
 - **Power Pivot:** Built a robust *data model* in Power Pivot to connect tables and enable advanced analysis.
 - **Data Analysis Expressions (DAX):**
