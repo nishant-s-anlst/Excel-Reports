@@ -28,4 +28,9 @@ This project was an excellent learning experience, helping me acquire new skills
 - **Power Query:** Transformed *messy data* in Power Query by fixing errors, removing duplicates, and defining fiscal months, quarters, and years for meaningful insights.
 - **Power Pivot:** Built a robust *data model* in Power Pivot to connect tables and enable advanced analysis.
 - **Data Analysis Expressions (DAX):** Used DAX to create *calculated columns* for deeper data insights and advanced analytics.
-- **Report Design:** Developed an *intuitive report* with a focus on **user readability (highlighting totals) and quick decision-making (using color scales to highlight trends).**
+- **Report Design:** Developed an *intuitive report* with a focus on user readability (highlighting totals) and quick decision-making (using color scales to highlight trends).
+- **Systematic Approach:** Developed a structured plan for report building to improve efficiency.
+- **Communication:**  Enhanced communication skills by presenting complex data in a clear and effective way.
+
+## Conclusion
+Through this project, I connected technical analysis with business impact. I’m excited to apply these skills in future data projects.
