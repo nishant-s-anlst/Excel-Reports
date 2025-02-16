@@ -33,4 +33,7 @@ This project was an excellent learning experience, helping me acquire new skills
 - **Communication:**  Enhanced communication skills by presenting complex data in a clear and effective way.
 
 ## Conclusion
-Through this project, I connected technical analysis with business impact. I’m excited to apply these skills in future data projects.
+This project deepened my understanding of how technical work shapes business decisions and growth. The experience has been invaluable in my data journey, and I’m eager to apply these skills in future projects.
+
+![image](https://github.com/user-attachments/assets/b3e7d1b8-1459-4c55-9fe9-0d108fb1ce9f)
+
