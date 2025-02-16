@@ -24,5 +24,5 @@ To explore Excel’s reporting capabilities for effective data analysis and deci
 This project was an excellent learning experience, helping me acquire new skills, overcome challenges, and improve my analytical mindset.
 
 ### Skills
-- **Data Processing Techniques:** Utilized **ETL** (Extract, Transform, Load) methodology for efficient data processing and preparation for analysis.
+- **Data Processing Techniques:** Utilized *ETL(Extract, Transform, Load)* methodology for efficient data processing and preparation for analysis.
 - 
