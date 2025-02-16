@@ -1,7 +1,7 @@
 # Excel-Reports
 
-## Project Objective
-To explore Excel’s reporting capabilities for effective data analysis and decision-making.
+## Project Objectives
+Key objectives of this project are as follows:
 
 ### Sales Report
 #### 1. Customer Performance Report:
@@ -21,7 +21,7 @@ To explore Excel’s reporting capabilities for effective data analysis and deci
      ###### 👉  [Financial Performance Overview (2019-2021)](https://github.com/nishant-s-anlst/Excel-Reports/blob/main/AtliQ%20P%26L%20Statement%20By%20Fiscal%20Months.pdf)
    
 ## Key Learnings
-This project was an excellent learning experience, helping me acquire new skills, overcome challenges, and improve my analytical mindset.
+This project was an excellent learning experience, helping me acquire new skills, overcome challenges, and improve my analytical mindset. Here's what I learned:
 
 ### Skills
 - **Data Processing Techniques:** Utilized *ETL (Extract, Transform, Load)* methodology for efficient data processing and preparation for analysis.
