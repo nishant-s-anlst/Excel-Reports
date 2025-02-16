@@ -32,11 +32,11 @@ This project was an excellent learning experience, helping me acquire new skills
 - **Systematic Approach:** Developed a structured plan for report building to improve efficiency.
 - **Communication:**  Enhanced communication skills by presenting complex data in a clear and effective way.
 
-## Conclusion
+## Conclusion ✍️
 This project deepened my understanding of how technical work shapes business decisions and growth. The experience has been invaluable in my data journey, and I’m eager to apply these skills in future projects.
 
 #
-[Go to Homepage](https://github.com/nishant-s-anlst)
+[Go to Homepage 🏠](https://github.com/nishant-s-anlst)
 #
 
 
