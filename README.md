@@ -13,4 +13,6 @@ To explore Excel’s reporting capabilities for effective data analysis and deci
   - Analyze market performance against sales targets to assess how well sales strategies met expectations and identify opportunities for optimization.
 
  ### Finance Report   
+
+ - Generate detailed Profit and Loss reports from FY 2019 to 2021, analyzing financial trends and business performance over different time periods.
    
